@@ -1,0 +1,1 @@
+Script for fast photo renaming. Renames all jpeg images in folder with pattern photDATETIME_TAKEN.jpg. Written in Run'n'Prey style. Make backup before running.
